@@ -1,0 +1,1 @@
+CREATING TABLE: bq mk -t --description "This is my table" usecase1_hist.repurchase_hist cid:INT64,upc:LONG,oid:LONG,dt:DATE,r_dt:DATE,prc:FLOAT64,qty:INT64,amt:FLOAT64,r_qty:INT64,r_amt:FLOAT64,web_prod_id:INT64,GMM_DESC:STRING,PARENT_MDSE_DIVN_DESC:STRING,LAST_MODIFIES_TIME:TIMESTAMP,COUNTRY_CODE:STRING,ENTITY_CODE:STRING
